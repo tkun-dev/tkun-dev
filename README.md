@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-🎯 I'm a Back-end Developer with 2 year of experience developing Web APIs for CRM platforms, Hospital Information Systems (HIS) and real-time messaging applications like ChatChit. Proficient in ASP.NET Core, Entity Framework Core, SQL Server, SignalR, WebSocket. Passionate about system performance optimization, clean code, and integrating new technologies into products.
+🎯 I'm a Full Stack Developer with 2 year of experience developing Web APIs for CRM platforms, Hospital Information Systems (HIS) and real-time messaging applications like ChatChit. Proficient in ASP.NET Core, Entity Framework Core, SQL Server, SignalR, WebSocket. Passionate about system performance optimization, clean code, and integrating new technologies into products.
 
 💡 Highlights:
 - Developed CRM and HIS APIs for Doctor Check clinic
