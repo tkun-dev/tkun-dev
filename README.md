@@ -126,18 +126,7 @@ https://play.google.com/store/apps/details?id=com.tuyenkun.sovangkunkun
 
 ---
 
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkun-dev&layout=compact&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tkun-dev&show_icons=true&theme=radical" />
-    </td>
-  </tr>
-</table>
+>
 
 <p align="center">
   <i>Thanks for visiting! Feel free to connect or explore my projects 🚀</i>
