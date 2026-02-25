@@ -120,7 +120,6 @@ I focus on **ASP.NET Core**, **system architecture**, **performance optimization
 
 * 📧 Email: **[trantuyen.developer.981@gmail.com](mailto:trantuyen.developer.981@gmail.com)**
 * 🐙 GitHub: [https://github.com/tkun-dev](https://github.com/tkun-dev)
-* 💼 LinkedIn: [https://linkedin.com/in/tkun](https://linkedin.com/in/tkun)
 
 <p align="center">
   <i>Thanks for visiting! Feel free to connect or explore my projects 🚀</i>
